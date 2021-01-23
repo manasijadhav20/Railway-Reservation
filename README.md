@@ -5,6 +5,8 @@ A Java Swing based application for Reservation system was implemented which prov
 interface to reserve train tickets.
 
 Run:
-javac RailwayUI.java
-java RailwayUI
+
+>javac RailwayUI.java
+
+>java RailwayUI
 
